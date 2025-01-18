@@ -5,27 +5,23 @@
 On the first day of training, we learned about the building blocks of web pages called HTML elements.
 
 - We learned how to use different HTML tags to:
-    - **Create headings:** Make text appear as headings of different sizes (<h1> to <h6>).
-    - **Format text:** Make text bold (<b>), italic (<i>), or emphasize text (<strong>).
-    - **Embed media:** Add images, videos, and audio to our web pages.
+- **Create headings:** Make text appear as headings of different sizes (<h1> to <h6>).
+- **Format text:** Make text bold (<b>), italic (<i>), or emphasize text (<strong>).
+- **Embed media:** Add images, videos, and audio to our web pages.
 
 **The Task: Creating a Signup/Login Page**
 
 Our main task for the day was to create a simple signup/login page. This page included:
 
 - **A form:** This is like an online application.
-    - It had fields for:
+- It had fields for:
         - First name
         - Last name
         - Email address
         - Password
 - **A submit button:** This button sends the information entered in the form.
 - **Links:** These are like clickable buttons that take you to other pages.
-    - We created links to "Go to the first page" and "Go to the Second page."
-
-**Key Takeaways**
-
-This task helped us practice using HTML to create forms, input fields, and links for basic navigation between pages. This is essential for building interactive web pages.
+- We created links to "Go to the first page" and "Go to the Second page."
 
 # DAY 2
 
